@@ -1,0 +1,123 @@
+.l-footer-columns {
+    background-image: url('');
+    background-size: cover;
+  
+  }
+  .titlebar {
+    width:100%;
+    text-align:left;
+    background-size: cover;
+  }
+  .header-top.social_top_bar, .orange_bar {
+    background : rgba(242,242,242,1);
+  }
+  .header-top.social_top_bar, .orange_bar,
+  .l-header .header-top .contact-info,
+  .l-header .header-top i,
+  .l-header .header-top .social-icons.accent li i{
+    color : rgba(153,153,153,1);
+  }
+  body, body p {
+    font-family: 'Open Sans', sans-serif;
+  }h1, h2, h3, h4, h5, h6, .menu-list a {
+     font-family: 'Open Sans', sans-serif;
+     font-weight :400;
+   }.top-bar-section .main-nav > li > a:not(.button) {
+      font-family : 'Open Sans';
+      font-weight : 600;
+  
+    }
+  
+  .primary-color_bg, .square-img > a:before,
+  .boxes .box > a:before, .boxes .box .flipper a:before,
+  
+  .wd_onepost .title-block span, .one_post_box .box_image .titel_icon .box_icon,
+  .one_post_box .more, .boxes .box-container > a:before,
+  .boxes .box-container .flipper a:before, .layout-4 div.box-icon i.fa,
+  .boxes.small.layout-5 .box-icon, .boxes.small.layout-5-inverse .box-icon,
+  .boxes.small.layout-6 .box-icon i.fa, .carousel_blog span.tag a,
+  .wd-carousel-container .carousel-icon i, .search_box input[type='submit'],
+  table thead, table tfoot, .block-block-17, .row.call-action, .blog-info,
+  button.dark:hover, button.dark:focus, .button.dark:hover, .button.dark:focus,
+  span.wpb_button:hover, span.wpb_button:focus,.sidebar #searchsubmit,
+  .woocommerce .widget_price_filter .ui-slider .ui-slider-range,
+  .woocommerce-page .widget_price_filter .ui-slider .ui-slider-range,
+  .products .product .button,
+  .woocommerce #content input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt,
+  .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce-page #content input.button.alt,
+  .woocommerce-page #respond input#submit.alt, .woocommerce-page a.button.alt,
+  .woocommerce-page button.button.alt, .woocommerce-page input.button.alt,
+  .woocommerce #content input.button:hover, .woocommerce #respond input#submit:hover,
+  .woocommerce a.button:hover, .woocommerce button.button:hover,
+  .woocommerce input.button:hover, .woocommerce-page #content input.button:hover,
+  .woocommerce-page #respond input#submit:hover, .woocommerce-page a.button:hover,
+  .woocommerce-page button.button:hover, .woocommerce-page input.button:hover,
+  .woocommerce span.onsale, .woocommerce-page span.onsale,
+  .woocommerce-page button.button, .widget_product_search #searchsubmit, .widget_product_search #searchsubmit:hover,
+  .sidebar #searchsubmit, .l-footer-columns #searchsubmit,.page-numbers.current,.post-password-form input[type='submit'],
+  .page-links a:hover,
+  .blog-post .sticky .blog-info, .team-member-slider .owl-dots .owl-dot.active span, .team-member-slider .owl-theme .owl-dots .owl-dot:hover span,
+  .team-member-carousel .owl-dots .owl-dot.active span, .team-member-carousel .owl-theme .owl-dots .owl-dot:hover span,
+  #comments ul.commentlist li.comment section.comment .comment-reply-link, #comments ol.commentlist li.comment section.comment .comment-reply-link, .wd-image-text.style-2 h4:after
+  {
+    background :		rgba(16,110,170,1);
+  }
+  
+  .blog-post .sticky .blog-info {
+    background: rgba(16,110,170,1) repeating-linear-gradient(-55deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) 10px, rgba(0, 0, 0, 0) 10px, rgba(0, 0, 0, 0) 20px) repeat scroll 0 0;
+  }
+  
+  .sidebar #s:active,
+  .sidebar #s:focus, .boxes.layout-3 .box-icon {
+    border-color :    rgba(16,110,170,1);
+  }
+  .blog-info .arrow {
+    border-color: transparent rgba(16,110,170,1);
+  }
+  
+  .primary-color_color, a, a:focus, a.active, a:active, a:hover,section.corporate .menu-item a i,
+  .box-container:hover .box-title, .blog-posts i, .woocommerce .woocommerce-breadcrumb, .woocommerce-page .woocommerce-breadcrumb, div.boxes.small.layout-3 .box-icon i {
+    color : 	rgba(16,110,170,1) ;
+  }
+  .boxes.small.layout-3 .box-icon i,
+  div.boxes.small.layout-3:hover .box-icon i {
+    color: rgba(255,255,255,1);
+  }
+  
+  .corporate-layout .top-bar-section ul.menu > li > a,
+  .creative-layout .top-bar-section ul li > a {
+    color :    rgba(136,136,136,1);
+  }
+  
+  .contain-to-grid.sticky.fixed {
+    background-color:#FFF;
+  }
+  .corporate-layout .top-bar-section ul.menu > li > a {
+     font-weight: 600;
+     text-transform: none;
+   }
+  header .button.home-cta {
+    padding: 14px 30px;
+    margin-top: 20px;
+    height: 46px;
+    border: medium none;
+    border-radius: 2px;
+    margin-left: 75px;
+    color: rgb(255, 255, 255);
+    font-weight: 800;
+  }
+  @media only screen and (max-width: 900px) {
+    header .button.home-cta {
+      display: none;
+    }
+  }
+  .wpb_image_grid .wpb_image_grid_ul li.isotope-item {
+    padding : 10px;
+  }
+  
+  .blog-info .arrow {
+    border-left-color:rgba(16,110,170,1) ;
+  }
+  .ui-accordion-header-active, .ui-tabs-active, .box-icon {
+    border-top-color:rgba(16,110,170,1)
+  }
